@@ -11,7 +11,7 @@ mailai = input("Would you like to use ai to write your email?: "
                "\n [2] N"
                "\n  : ")
 if mailai == "1":
-    subprocess.run (["python", "D:\Auto\extra\mailai.py"])
+    subprocess.run (["python", "D:\MailBot\EXTRAS\mailai.py"])
 
 
 
