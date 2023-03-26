@@ -30,7 +30,7 @@ if ap1 == "1":
     password = "zkwrayxvlojysbdz"
 
 if ap1 == "2":
-    print("for now go to mail.py and change the password = ")
+    print("for now go to run.py and change the password = ")
 
 
 
