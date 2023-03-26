@@ -1,6 +1,6 @@
 import smtplib
 import os
-from extra import mailpresets
+from EXTRAS import mailpresets
 import subprocess
 
 
